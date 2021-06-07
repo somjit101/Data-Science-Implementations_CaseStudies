@@ -9,8 +9,9 @@ Virtual Environment : Anaconda 4.8.2
 ## Directories and Topics for Reference
 
 - Exploratory Data Analysis
-  \n|--> QQ_Plot
-  \n|-->  BoxCoxTransform
+
+  |-- QQ_Plot
+  |-- BoxCoxTransform
   
 - 
 
